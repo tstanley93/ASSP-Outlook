@@ -1,0 +1,15 @@
+c:\users\tstanley\documents\visual studio 2010\Projects\ASSP-Outlook\ASSP-Outlook\bin\Debug\ASSP-Outlook.dll
+c:\users\tstanley\documents\visual studio 2010\Projects\ASSP-Outlook\ASSP-Outlook\bin\Debug\ASSP-Outlook.pdb
+c:\users\tstanley\documents\visual studio 2010\Projects\ASSP-Outlook\ASSP-Outlook\bin\Debug\ASSP-Outlook.dll.manifest
+c:\users\tstanley\documents\visual studio 2010\Projects\ASSP-Outlook\ASSP-Outlook\bin\Debug\ASSP-Outlook.vsto
+c:\users\tstanley\documents\visual studio 2010\Projects\ASSP-Outlook\ASSP-Outlook\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.dll
+c:\users\tstanley\documents\visual studio 2010\Projects\ASSP-Outlook\ASSP-Outlook\bin\Debug\Microsoft.Office.Tools.Outlook.v4.0.Utilities.dll
+c:\users\tstanley\documents\visual studio 2010\Projects\ASSP-Outlook\ASSP-Outlook\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.xml
+c:\users\tstanley\documents\visual studio 2010\Projects\ASSP-Outlook\ASSP-Outlook\bin\Debug\Microsoft.Office.Tools.Outlook.v4.0.Utilities.xml
+c:\users\tstanley\documents\visual studio 2010\Projects\ASSP-Outlook\ASSP-Outlook\obj\Debug\ResolveAssemblyReference.cache
+c:\users\tstanley\documents\visual studio 2010\Projects\ASSP-Outlook\ASSP-Outlook\obj\Debug\ASSP_Outlook.Properties.Resources.resources
+c:\users\tstanley\documents\visual studio 2010\Projects\ASSP-Outlook\ASSP-Outlook\obj\Debug\GenerateResource.read.1.tlog
+c:\users\tstanley\documents\visual studio 2010\Projects\ASSP-Outlook\ASSP-Outlook\obj\Debug\GenerateResource.write.1.tlog
+c:\users\tstanley\documents\visual studio 2010\Projects\ASSP-Outlook\ASSP-Outlook\obj\Debug\ASSP-Outlook.dll
+c:\users\tstanley\documents\visual studio 2010\Projects\ASSP-Outlook\ASSP-Outlook\obj\Debug\ASSP-Outlook.pdb
+c:\users\tstanley\documents\visual studio 2010\Projects\ASSP-Outlook\ASSP-Outlook\obj\Debug\ASSP_Outlook.Ribbon1.resources
